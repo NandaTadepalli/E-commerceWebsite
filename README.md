@@ -24,7 +24,7 @@ Since the creation of this project, I have gained more expertise in web developm
 
 ## Example Image
 
-![Website Screenshot](Web capture_30-12-2023_4168_nandatadepalli.github.io.jpeg)
+![Website Screenshot](WebSite_ScreenShoot.jpeg)
 
 ## Contributing
 
